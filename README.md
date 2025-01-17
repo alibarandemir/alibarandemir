@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Baran</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 📫 How to reach me **alibarandemir798@gmail.com**
 
